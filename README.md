@@ -11,3 +11,10 @@
 * ![Screenshot 2020-02-04 at 10 21 19 AM](https://user-images.githubusercontent.com/56776660/73777787-14360480-4758-11ea-9042-cb0014d76ffc.png)
 * Give answers one by one.
 * ![Screenshot 2020-02-04 at 10 21 48 AM](https://user-images.githubusercontent.com/56776660/73854266-3a16e400-4800-11ea-8696-85764e6e76cb.png)
+
+![Screenshot 2020-02-04 at 10 22 04 AM](https://user-images.githubusercontent.com/56776660/73854658-db059f00-4800-11ea-94d6-996db1f54edb.png)
+
+![Screenshot 2020-02-04 at 10 22 53 AM](https://user-images.githubusercontent.com/56776660/73854693-e8228e00-4800-11ea-80db-ff8822776e17.png)
+![Screenshot 2020-02-04 at 10 23 09 AM](https://user-images.githubusercontent.com/56776660/73854703-eb1d7e80-4800-11ea-8a2d-9d66760cab3f.png)
+* Enter 1.
+* ![Screenshot 2020-02-04 at 10 23 33 AM](https://user-images.githubusercontent.com/56776660/73854710-ece74200-4800-11ea-9fc1-74b0649b558f.png)
