@@ -9,4 +9,5 @@
 * Then
 * ![Screenshot 2020-02-04 at 10 21 10 AM](https://user-images.githubusercontent.com/56776660/73777635-d5a04a00-4757-11ea-8d4d-1bd2e7d05c57.png)
 * ![Screenshot 2020-02-04 at 10 21 19 AM](https://user-images.githubusercontent.com/56776660/73777787-14360480-4758-11ea-9042-cb0014d76ffc.png)
+* Give answers one by one.
 * ![Screenshot 2020-02-04 at 10 21 48 AM](https://user-images.githubusercontent.com/56776660/73854266-3a16e400-4800-11ea-8696-85764e6e76cb.png)
